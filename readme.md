@@ -1,0 +1,4 @@
+- In the SystemCode folder, the frontend project is named my-app and the backend project is named DjangoAPI. The algorithm project is a subdirectory in DjangoAPI named wrec, which also contains the whole source files, including images and filelist.csv
+
+- To run this project, you'll have to install the latest version of Django, React, antd. As for the algorithm inference side, basic libraries like numpy, pandas, pickle, PIL, matplotlib are all you need.
+- The whole project is all built from scratch and the alogrithm is also designed by our own, thus some of the coding may be kind of amateur, but the most important thing is that it records our learning process.
