@@ -28,9 +28,9 @@ Our proposed image and semantic similarity based recommendation algorithm model 
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-<iframe height=498 width=510 src="Videos\IRS-PM-2022-08-22-IS04FT-GRP-Abyss-ItelligentImageRecommendationSystem-Video1.mp4">
+<video src="Videos\IRS-PM-2022-08-22-IS04FT-GRP-Abyss-ItelligentImageRecommendationSystem-Video1.mp4" width="800px" height="600px" controls="controls"></video>
 
-<iframe height=498 width=510 src="Videos\IRS-PM-2022-08-22-IS04FT-GRP-Abyss-ItelligentImageRecommendationSystem-Video2.mp4">
+<video src="Videos\IRS-PM-2022-08-22-IS04FT-GRP-Abyss-ItelligentImageRecommendationSystem-Video2.mp4" width="800px" height="600px" controls="controls"></video>
 
 ---
 
